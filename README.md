@@ -1,6 +1,6 @@
 # ToDolistApp
 ## Description 
-Our alarm clock app offers users a comprehensive and intuitive way to manage their alarms. The home screen prominently displays the current time and date, ensuring users are always aware of the current moment. Setting a new alarm is simple with an integrated time picker, allowing precise control over alarm times. Users can personalize their wake-up experience by selecting from a variety of alarm tones. The app also provides a convenient list of all set alarms, complete with on/off toggles for easy management. When an alarm rings, users can choose to snooze or dismiss it, offering flexibility in how they start their day. The app features a user-friendly and visually appealing design, making it both functional and aesthetically pleasing.
+This To-Do List app helps users manage daily tasks with ease, allowing them to add new tasks, edit existing ones, and cancel completed or unwanted tasks. The app also includes a notification feature, sending timely reminders to keep users on track with their duties and ensuring they never miss an important task. Perfect for staying organized and boosting productivity, this app provides a simple yet effective way to handle to-do lists all in one place.
 
 ## My Logo
 ![tickmark](https://github.com/user-attachments/assets/ae296eba-e431-4040-bdb0-e7f10d25483b)
